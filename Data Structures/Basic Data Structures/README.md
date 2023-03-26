@@ -1,6 +1,6 @@
 # **Cheat Sheet**
 ## **Basic Data Structures**
-==## **Linear Lists**==
+- ## **Linear Lists**
 
 >## **Operations**<br/>
 
