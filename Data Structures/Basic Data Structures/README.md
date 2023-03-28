@@ -1,17 +1,16 @@
 # **Cheat Sheet**
+
 ## **Basic Data Structures**
+
 ## **1. Linear Lists**
 
 >## **Operations**<br/>
 
-| Function      | Operation | 
-| :---:        |    :----:   | 
-| <code>init()</code>      | create an empty list       | 
-| <code>get(i)</code>   | returns a<sub>i</sub>      | 
-| <code>set(i, x) | sets i<sup>th</sup> element to x |
-| <code>insert(i, x) | inserts x prior to i<sup>th</sup> element |
-| <code>delete(i)</code> | deletes i<sup>th</sup> element |
-| <code>length()</code> | returns number of items |
-
-
-
+| Function      | Operation |
+| :---:        |    :----:   |
+| `init()` $\rightarrow$ `void`     | create an empty list       |
+| `get(i)`  $\rightarrow$ `element`    | returns $a_{i}$      |
+| `set(i, x)`  $\rightarrow$ `void`  | sets $i^{th}$ element to $x$ |
+| `insert(i, x)`  $\rightarrow$ `void` $\lor$ `ref`  | inserts $x$ prior to $i^{th}$ element |
+| `delete(i)`  $\rightarrow$ `void` $\lor$ `ref`  | deletes $i^{th}$ element |
+| `length()` $\rightarrow$ `int`  | returns $n$, number of items |
